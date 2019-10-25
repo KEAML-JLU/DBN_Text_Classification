@@ -1,0 +1,1 @@
+source code for paper [Text classification based on deep belief network and softmax regression](https://link.springer.com/article/10.1007%2Fs00521-016-2401-x)
